@@ -86,6 +86,47 @@ opg 7.1 I øvelsen er der blevet lavet et logisk udtryk, som undersøger om bold
 
 opg 8.1 I øvelsen er der blevet lavet tre forskellige måder at skrive en if-sætning på. De giver samme resultat. Den almindelige if-sætning er længere og nemmere at læse mens de korte versioner fylder mindre.
 
+9. september 2026
+
+Jeg læste om C# Methods og Method Parameters.
+
+Jeg lærte at en metode er en del af koden som kan bruges flere gange. Jeg lærte også at man kan sende værdier ind i en metode med parametre.
+
+Jeg arbejdede med at lave banen og bruge metoder til at tegne forskellige dele af spillet.
+
+Jeg læste også om Default Parameters Return Values Named Arguments og Method Overloading.
+
+10. september 2026
+
+Jeg læste om Stopur i C# og hvordan man kan bruge et stopur til at styre hvornår bolden skal flytte sig.
+
+Jeg arbejdede videre med Pong spillet og fik battet og bolden til at bevæge sig.
+
+Jeg brugte også if sætninger til at tjekke om bolden rammer toppen bunden eller battet.
+
+11. september 2026
+
+Jeg arbejdede videre med det sidste af Pong spillet.
+
+Jeg brugte switch til forskellige valg i spillet. Jeg brugte også while loops til ting der skal køre flere gange.
+
+Jeg læste om for loops og foreach loops. En for loop bruges når man ved hvor mange gange noget skal gentages.
+
+Jeg læste også om break og continue. Break stopper en løkke mens continue springer videre til næste omgang.
+
+Jeg læste om arrays  et array kan gemme flere værdier i samme variabel Jeg læste også om multidimensional arrays.
+
+Til sidst arbejdede jeg videre med selve Pong spillet Jeg lavede menuen hvor man kan skrive sit navn vælge niveau og vælge hvor mange point man vil spille til.
+
+Jeg lavede også en computer modstander og fik bolden til at bevæge sig og ramme væggene og battet.
+
+Jeg fik også score til at virke og bolden bliver lidt hurtigere efter hvert point.
+
+Til sidst fik jeg banen til at blive på skærmen hele tiden uden at blinke.
+
+Jeg har derfor arbejdet med næsten alle de ting vi har læst om i C# og brugt dem i min egen version af Pong spil.
+
+
 
 
 
