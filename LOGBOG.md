@@ -106,27 +106,8 @@ Jeg brugte også if sætninger til at tjekke om bolden rammer toppen bunden elle
 
 11. september 2026
 
-Jeg arbejdede videre med det sidste af Pong spillet.
+Jeg arbejdede videre med C# og lærte om blandt andet loops, arrays og switch. Jeg prøvede også at bruge det jeg havde lært i mit Pong spil. Jeg begyndte at få flere dele af spillet til at virke, men efterhånden blev koden sværere at holde styr på. Der kom også fejl som gjorde det svært at arbejde videre. Derfor besluttede jeg senere at starte forfra med et nyt projekt, hvor jeg kunne bygge spillet op trin for trin.
 
-Jeg brugte switch til forskellige valg i spillet. Jeg brugte også while loops til ting der skal køre flere gange.
+19. oktober 2026
 
-Jeg læste om for loops og foreach loops. En for loop bruges når man ved hvor mange gange noget skal gentages.
-
-Jeg læste også om break og continue. Break stopper en løkke mens continue springer videre til næste omgang.
-
-Jeg læste om arrays  et array kan gemme flere værdier i samme variabel Jeg læste også om multidimensional arrays.
-
-Til sidst arbejdede jeg videre med selve Pong spillet Jeg lavede menuen hvor man kan skrive sit navn vælge niveau og vælge hvor mange point man vil spille til.
-
-Jeg lavede også en computer modstander og fik bolden til at bevæge sig og ramme væggene og battet.
-
-Jeg fik også score til at virke og bolden bliver lidt hurtigere efter hvert point.
-
-Til sidst fik jeg banen til at blive på skærmen hele tiden uden at blinke.
-
-Jeg har derfor arbejdet med næsten alle de ting vi har læst om i C# og brugt dem i min egen version af Pong spil.
-
-
-
-
-
+Jeg startede på en ny version af mit Pong spil i C#. Jeg begyndte med at lave en velkomst, hvor spilleren kan skrive sit navn. Jeg lavede også variabler til spillerens score og computerens score. Derefter arbejdede jeg med at tegne banen og placere bolden og de to bat. Jeg brugte for loops til at tegne banen og if sætninger til at bestemme hvor tingene skulle være. Jeg fik også lavet styring af spillerens bat med pil op og pil ned. Til sidst arbejdede jeg med boldens bevægelse og lavede if sætninger, så bolden skifter retning når den rammer toppen eller bunden af banen.
